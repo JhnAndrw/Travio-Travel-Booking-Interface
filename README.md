@@ -39,5 +39,3 @@ This project is open‑source and available under the MIT License.
 
 
 This README gives your repo a professional look with sections for **Features, Getting Started, Tech Stack, Purpose, and License**.  
-
-👉 Do you want me to also help you add a **screenshot preview section** (with placeholder Markdown image links) so visitors instantly see your interface when they open the repo?
